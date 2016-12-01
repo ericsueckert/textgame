@@ -1,7 +1,5 @@
 # Eric Eckert
-# CSE 413 Perkins AU16
-# Part A
-#
+
 require_relative 'game.rb'
 
 # MONSTER: FriendlyMonster
