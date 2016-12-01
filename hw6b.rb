@@ -1,7 +1,5 @@
 # Eric Eckert
-# CSE 413 Perkins AU16
-# Part B
-#
+
 require_relative 'game.rb'
 require_relative 'hw6a.rb'
 
