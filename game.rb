@@ -1,6 +1,4 @@
-# CSE 413 16au Assignment 6 provided code
 # Eric Eckert
-#
 
 # readline provides nice command-line editing for text input
 require 'readline'
